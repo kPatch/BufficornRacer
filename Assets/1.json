@@ -1,0 +1,24 @@
+{
+  "name": "Bufficorn #1",
+  "description": "The Mythical Bufficorn combines the Power of a Buffalo with the Agility of a Unicorn",
+  "image": "https://github.com/kPatch/BufficornRacer/Assets/Images/1.png",
+  "external_url": "https://github.com/kPatch/BufficornRacer",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Horn",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Power",
+      "value": "Strong"
+    },
+        {
+      "trait_type": "Speed",
+      "value": "Medium"
+    }
+  ]
+}
