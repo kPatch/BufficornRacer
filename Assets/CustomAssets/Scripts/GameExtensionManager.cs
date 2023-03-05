@@ -5,7 +5,8 @@ using UnityEngine;
 
 public class GameExtensionManager : MonoBehaviour
 {
-    //[SerializeField] private
+    public AudioClip impact;
+    public AudioSource audioSource;
 
     void Start()
     {
@@ -16,6 +17,11 @@ public class GameExtensionManager : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void PlayAudio()
+    {
+        audioSource.PlayOneShot(impact, 0.7F);
     }
 
     public void DirectJoinGame()
