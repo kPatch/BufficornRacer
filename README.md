@@ -1,5 +1,13 @@
-Bufficorn Racer is a fun video game where you can race against other players using a powerful creature called a Bufficorn - a mix between a buffalo and a unicorn. If you win races and score high, you can earn special digital rewards called NFTs. These rewards can be used to unlock new characters, customize your Bufficorn with unique upgrades, and give you special abilities to help you win races.
+Bufficorn Racer is a fun racing game that rewards players with NFT rewards for competing against other Bufficorns, and achieving higher scores.
 
-The game also has a community of players who love Bufficorns, racing, and the stories behind ETHDenver. You can connect with other players through online leaderboards, social media, and in-game chat to share tips, strategies, and stories of your successes and failures.
 
-If you enjoy racing games and want to win cool digital rewards while connecting with other players who love Bufficorns, then give Bufficorn Racer a try - it's the ultimate racing experience for Bufficorn enthusiasts and gamers alike!
+Bufficorn Racer is a thrilling racing game that puts players in the driver's seat of a unique and powerful Bufficorn - a mythical creature that combines the strength of a buffalo with the agility of a unicorn. As players compete in high-speed races across challenging tracks, they'll have the chance to earn exciting rewards in the form of non-fungible tokens (NFTs).
+
+
+These NFT rewards are more than just collectibles - they can be used to unlock new Bufficorn characters, customize Bufficorns with unique upgrades, and even unlock special abilities that give players an edge on the track. And because NFT metadata and asset is stored on a BNB Greenfield, players can be sure that their in-game assets hold utility and completely theirs to keep.
+
+
+But Bufficorn Racer is more than just a game of speed and strategy - it's also a community of players who share a passion for Bufficorns, racing and the lore behind ETHDenver!!! Players can connect with others through online leaderboards, social media, and even in-game chat, sharing tips, strategies, and stories of their victories and defeats.
+
+
+So if you're looking for an adrenaline-pumping racing game that rewards skill, strategy, and a bit of luck with valuable tokenized rewards, then look no further than Bufficorn Racer - the ultimate racing experience for Bufficorn enthusiasts and gamers alike!
