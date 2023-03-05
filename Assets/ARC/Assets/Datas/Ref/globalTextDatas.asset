@@ -24,7 +24,7 @@ MonoBehaviour:
   b_UpdateAfterNewTextDataCreation: 0
   StartPos: 137
   EndPos: 30
-  tab: 0
+  tab: 1
   newEntryTextList:
   - 
   - 
