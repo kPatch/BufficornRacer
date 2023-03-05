@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 264a1bf44d0304426af8a43ae76bb548, type: 3}
+  m_Name: VehicleGlobalData
+  m_EditorClassIdentifier: 
+  MoreOptions: 0
+  HelpBox: 1
+  tab: 0
+  carParametersList:
+  - name: Bufficorn
+    bShow: 1
+    Prefab: {fileID: 3303615455151099729, guid: 8a7d8af04e60b4956a858f55bef984a8, type: 3}
+    vehicleCategory: 0
+    speed: 50
+    damageResistance: 10
+    boosterPower: 70
+    boosterDuration: 2
+    boosterCooldown: 4
+    coinMultiplier: 5
+    cost: 0
+    isUnlocked: 1
+    speedAI: 50
+    damageResistanceAI: 10
+    boosterPowerAI: 60
+    boosterDurationAI: 2
+    boosterCooldownAI: 0.1
+    prefabScaleMultiplierInMenu: 1
+    bShowInEditor: 0
+  - name: Bufficorn AI
+    bShow: 1
+    Prefab: {fileID: 3303615455151099729, guid: 282bf8910ec3c43958e1a3d3dd06dc86, type: 3}
+    vehicleCategory: 0
+    speed: 50
+    damageResistance: 10
+    boosterPower: 70
+    boosterDuration: 2
+    boosterCooldown: 4
+    coinMultiplier: 1
+    cost: 0
+    isUnlocked: 1
+    speedAI: 50
+    damageResistanceAI: 10
+    boosterPowerAI: 60
+    boosterDurationAI: 2
+    boosterCooldownAI: 0.1
+    prefabScaleMultiplierInMenu: 1
+    bShowInEditor: 0
+  currentVehicleDisplayedInTheGarage: 1
+  OrderUsingCustomList: 0
+  customList: 
+  playerNamesList:
+  - paramName: 
+    listID: 0
+    EntryID: 139
+  - paramName: 
+    listID: 0
+    EntryID: 140
+  aiNamesList:
+  - paramName: 
+    listID: 0
+    EntryID: 141
+  - paramName: 
+    listID: 0
+    EntryID: 142
+  - paramName: 
+    listID: 0
+    EntryID: 143
+  - paramName: 
+    listID: 0
+    EntryID: 144
+  - paramName: 
+    listID: 0
+    EntryID: 145
+  - paramName: 
+    listID: 0
+    EntryID: 146
+  - paramName: 
+    listID: 0
+    EntryID: 147
+  - paramName: 
+    listID: 0
+    EntryID: 148
+  aiNameRandom: 1
