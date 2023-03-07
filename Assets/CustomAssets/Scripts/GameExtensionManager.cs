@@ -21,7 +21,7 @@ public class GameExtensionManager : MonoBehaviour
 
     public void PlayAudio()
     {
-        audioSource.PlayOneShot(impact, 0.7F);
+        audioSource.PlayOneShot(impact, 2F);
     }
 
     public void DirectJoinGame()
